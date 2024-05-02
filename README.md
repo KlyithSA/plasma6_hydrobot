@@ -15,6 +15,6 @@ Configuration options:
 
 ### Install
 
-KDE Store
+[KDE Store](https://store.kde.org/p/2151576)
 
 Download repository as zip, extract ppk.plasma6.hydrobot folder to `~/.local/share/plasma/plasmoids/`
