@@ -1,0 +1,23 @@
+{
+    "KPackageStructure": "Plasma/Applet",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "klyith@gmail.com",
+                "Name": "Klyith"
+            },
+            {
+                "Website": "https://game-icons.net",
+                "Name": "Icons by Lorc"
+            }
+        ],
+        "Category": "Utilities",
+        "Description": "Hydration reminder",
+        "Icon": "/img/drop.svg",
+        "Id": "ppk.plasma6.hydrobot",
+        "License": "GPL-2.0+ / Icons CC BY 3.0",
+        "Name": "Hydrobot",
+        "Website": "https://github.com/KlyithSA/plasma6_hydrobot"
+    },
+    "X-Plasma-API-Minimum-Version": "6.0"
+}
